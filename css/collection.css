@@ -33,8 +33,8 @@
     -webkit-tap-highlight-color: transparent; }
 
 .story-main-box .story-dialog-misc-item .text {
-  color: #FFFFFF;
-  background: #cecece;
+  color: #264d52;
+  background: #dadada;
   border: 1px solid #cecece; }
 
 .night-mode .story-main-box .story-dialog-item .message-bubble {
@@ -520,7 +520,7 @@ body, html {
 .guide-story-click {
   display: none;
   width: 165px;
-  height: 127px;
+  height: 165px;
   position: fixed;
   bottom: 52px;
   left: 50%;
